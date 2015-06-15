@@ -1,3 +1,7 @@
+#Notice
+
+This is a forked version from co-mongo. Will never be updated anymore. It just updated package.json to set mongodb driver to 2.0+
+
 # co-mongo
 
 A mongodb wrapper that plays nicely with [co](https://github.com/visionmedia/co).
